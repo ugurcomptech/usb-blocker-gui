@@ -22,14 +22,6 @@ Bu talimatlar, projeyi yerel makinenizde çalıştırmak ve geliştirmek için s
 
 1. Bu projeyi GitHub'dan veya ZIP olarak indirin.
 2. İndirdiğiniz dosyayı çıkarın.
-3. Bir terminal açın ve projenin ana dizinine gidin.
-4. Aşağıdaki komutu çalıştırarak gerekli bağımlılıkları yükleyin:
-
-
-  ```shell
-   pip install -r requirements.txt
-  ```
-
 
 ### Çalıştırma
 
